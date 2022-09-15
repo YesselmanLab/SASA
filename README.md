@@ -10,16 +10,13 @@ git clone https://github.com/YesselmanLab/SASA.git
 
 ### how to run:
 ```shell
-python SASA.py
-Name of the pdb file?
-# provide the path to the pdb file of interest
+python SASA.py Example.pdb
+# provide the path to the pdb file of interest as an argument
 ```
 
 ## Example:
 ```shell
-python SASA.py
-Name of the pdb file?
-Example.pdb
+python SASA.py Example.pdb
 
 # Output
 Nt,Nt_num,SASA value
