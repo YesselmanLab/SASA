@@ -11,8 +11,7 @@ git clone https://github.com/YesselmanLab/SASA.git
 cd SASA
 pip install -r requirements.txt
 ```
-If you dont have pip installed use the link below;
-[pip installation](https://pip.pypa.io/en/stable/installation/)
+If you dont have pip installed use this [link](https://pip.pypa.io/en/stable/installation/)
 
 ### how to run:
 ```shell
