@@ -1,6 +1,6 @@
 # Solvent Accessible Surfafce Area (SASA)
 
-A python code to calculate SASA for each A and C in an RNA. For G and U, the output will be zero. 
+This is a python code to calculate SASA for N1 of A and N3 of C in an RNA. For G and U, the output will be zero.
 
 ## How to:
 ```shell
