@@ -8,6 +8,7 @@ Therefore, it will calculate SASA for N1 of A and N3 of C in an RNA. For G and U
 ```shell
 # to download this repository
 git clone https://github.com/YesselmanLab/SASA.git
+pip install -r requirements.txt
 ```
 
 ### how to run:
