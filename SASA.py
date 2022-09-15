@@ -1,6 +1,7 @@
 import freesasa
 from biopandas.pdb import PandasPdb
 import sys
+import pandas as pd
 
 def SASA(name):
     Nt = []
